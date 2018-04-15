@@ -13,6 +13,16 @@ Please refer to the following site.
 https://github.com/cinkster/HUAnimator
 
 
+## Run 
+
+***Horizon Anbimation***
+
+<img src="https://github.com/keisukeYamagishi/HUAnimatorSwift/blob/master/Gif/Horizon.gif">
+
+***Vertical Animation***
+
+<img src="https://github.com/keisukeYamagishi/HUAnimatorSwift/blob/master/Gif/Vertical.gif">
+
 ## Use it
 ***Via SSH***: For those who plan on regularly making direct commits, cloning over SSH may provide a better experience (which requires uploading SSH keys to GitHub):
 
@@ -39,7 +49,7 @@ class ViewController: UIViewController, UINavigationControllerDelegate {  <= use
 }
 ```
 
-Declaration
+***Declaration***
 
 ```
 optional func navigationController(_ navigationController: UINavigationController, 
